@@ -36,7 +36,7 @@
 - Mongoose
 ---
 
-## 🔌 Real-Time Communication
+##  Real-Time Communication
 - WebSockets (Socket.io)
 
 ---
