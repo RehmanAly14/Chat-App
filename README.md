@@ -73,7 +73,7 @@
 - PORT=5000
 ---
 
-### Run the application
+## Run the application
 #### Backend
 - npm run dev
 #### Frontend
