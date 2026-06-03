@@ -1,4 +1,4 @@
- # 💬 Chatty
+ #  Chatty
 
 ### A modern real-time chat application built with the MERN stack, designed for fast, interactive, and seamless communication.
 
